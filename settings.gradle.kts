@@ -1,1 +1,1 @@
-rootProject.name = "architectury-versions"
+rootProject.name = "toolchain-versions"
